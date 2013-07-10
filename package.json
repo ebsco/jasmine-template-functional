@@ -1,0 +1,8 @@
+{
+	"name": "jasmine-template-functional",
+	"version": "0.0.1",
+	"main": "jasmine-template-functional.js",
+	"dependencies": {
+		"jasmine-reporters": "~0.2.1"
+	}
+}

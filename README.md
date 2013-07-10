@@ -1,0 +1,1 @@
+# Functional testing template for Jasmine
